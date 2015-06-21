@@ -573,3 +573,5 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
     'password' => 'w87is8kwLtst9Bm',
     'host' => 'localhost',
   );
+
+$conf['site_name'] = 'Test push 1';
