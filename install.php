@@ -1,5 +1,6 @@
 <?php
-
+echo 'changed';
+die;
 /**
  * @file
  * Initiates a browser-based installation of Drupal.
